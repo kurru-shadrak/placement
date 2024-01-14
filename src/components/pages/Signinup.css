@@ -1,0 +1,123 @@
+.logo{
+    border-radius: 10px;
+   
+  }
+   .email input{
+    padding:"20px 100px";
+    border-radius: 10px;
+    text-align: left;
+    color:blue;
+    border: 1px solid black;
+   }
+   input::placeholder{
+    color: black;
+   }
+   input:focus{
+    font-size: large;
+    background-color:lightblue;
+    border: none;
+  }
+  .password input{
+    padding:"20px 100px";
+    border-radius: 10px;
+    text-align: left;
+    border: 1px solid black;
+  }
+  .name input{
+    padding:"20px 100px";
+    border-radius: 10px;
+    text-align: left;
+    border: 1px solid black;
+  }
+  
+  input::-webkit-input-placeholder {
+    direction: rtl;
+  
+    text-align: left;
+  }
+  .signin{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: calc(100vh - 35px);
+ 
+    border-radius: 10px;
+    
+    }
+  .signin-wraper{
+   
+    height: 90%;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    
+  border: 1px solid gray;
+  padding: 20px;
+  border-radius: 10px;
+  -webkit-box-shadow: -2px 4px 9px 5px rgba(9, 9, 9, 0.28); 
+  box-shadow: -2px 4px 9px 5px rgba(23, 23, 23,0.28 );
+  
+  
+  
+  }
+  .signup{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: calc(100vh - 5px);
+    background-image:url("https://v.ftcdn.net/04/21/10/67/700_F_421106741_grEK3Anl3CKzbHaT1KuY4un5tuztyd1U_ST.mp4");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    
+    }
+  .signup-wraper{
+   
+    height: 95%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+  border: 1px solid gray;
+  padding: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: -2px 4px 9px 5px rgba(0,0,0,0.34); 
+  box-shadow: -2px 4px 9px 5px rgba(0,0,0,0.34);
+  background-color: white;
+  
+  
+  }
+  
+  .btn{
+    padding: 10px;
+    width: 100%;
+    height: 50px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 22px;
+    text-transform:inherit;
+  }
+   .password input{
+    
+    font-size: 16px;
+    width: 100%;
+    height: 50px;
+    
+    }
+    .name input{
+      
+      font-size: 16px;
+     width: 100%;
+      height: 50px;
+      
+    }
+    .email input{
+      
+      font-size: 16px;
+      width: 100%;
+      height: 50px;
+    }
+  

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kurru-shadrak/placement/static/css/main.6050e987.css",
+    "main.js": "/kurru-shadrak/placement/static/js/main.3d7d10b5.js",
+    "static/js/787.be66bd0c.chunk.js": "/kurru-shadrak/placement/static/js/787.be66bd0c.chunk.js",
+    "static/media/loginpage Background.jpeg": "/kurru-shadrak/placement/static/media/loginpage Background.4c48fd9fa4bc5af2461b.jpeg",
+    "static/media/html.png": "/kurru-shadrak/placement/static/media/html.821fbe811fa51044229c.png",
+    "static/media/css.jpeg": "/kurru-shadrak/placement/static/media/css.85ccbaeeea8b585e77ca.jpeg",
+    "static/media/final javascript.jpeg": "/kurru-shadrak/placement/static/media/final javascript.73e7de0c3820a47c4085.jpeg",
+    "static/media/kurru shadrak.jpg": "/kurru-shadrak/placement/static/media/kurru shadrak.3894a91f8040709a50e3.jpg",
+    "index.html": "/kurru-shadrak/placement/index.html",
+    "main.6050e987.css.map": "/kurru-shadrak/placement/static/css/main.6050e987.css.map",
+    "main.3d7d10b5.js.map": "/kurru-shadrak/placement/static/js/main.3d7d10b5.js.map",
+    "787.be66bd0c.chunk.js.map": "/kurru-shadrak/placement/static/js/787.be66bd0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6050e987.css",
+    "static/js/main.3d7d10b5.js"
+  ]
+}
